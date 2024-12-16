@@ -13,4 +13,4 @@
 Dev, Beta, B.2 (Beta.2).
 
 ## Reporting a Vulnerability
-If you ever find a vulnerability in Basica Editor then please report it in the Issues section. It would be fixed before a week. Updates are expected once in a month for most of the time.
+If you ever find a vulnerability in Basica Editor then please report it to my Discord(View contact.txt). It would be fixed before a week. Updates are expected once in a month for most of the time.
