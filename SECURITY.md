@@ -9,7 +9,7 @@
 | Beta.2  | :❌:               |
 | 0.1     | :✅:               |
 
-## No longer downloadable versiona
+## No longer downloadable versions
 Dev, Beta, B.2 (Beta.2).
 
 ## Reporting a Vulnerability
