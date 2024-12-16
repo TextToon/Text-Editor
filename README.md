@@ -16,3 +16,7 @@ python3 basica-editor.py
 ```
 ## license
 This project is under MIT License. See the license for more information.
+
+## Donate
+Please donate here: bc1qc90pzsd5k8c3l8dxvnyy4tqyk5nfh86j4pjxls ; in BTC or visit donate_here.md for more Cryptocurrencies.
+Even one donation may change Basica entirely to be new and better.
