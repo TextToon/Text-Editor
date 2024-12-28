@@ -34,12 +34,12 @@ NEW FEATURES
 ```bash for 2.0
 git clone https://www.github.com/Darky-Github/Basica-Editor.git
 cd Basica-Editor
-python3 basica2.py
+python3 basica3.py
 ```
 ```bash
 git clone https://www.github.com/Darky-Github/Basica-Editor.git
 cd Basica-Editor
-python3 basica-editor.py
+python3 basica3.py
 ```
 ## license
 This project is under MIT License. See the license for more information.
