@@ -5,7 +5,7 @@ from spellchecker import SpellChecker
 
 def new_file():
     text_area.delete(1.0, tk.END)
-    root.title("Basica 2.0 - Untitled")
+    root.title("Textor - text editor")
     global file_path
     file_path = None
 
@@ -30,15 +30,15 @@ def save_file():
 
 def save_file_as():
     global file_path
-    file_path = filedialog.asksaveasfilename(defaultextension=".txt", filetypes=[("Text files", "*.txt"), ("All files", "*.*")])
+    file_path = filedialog.asksaveasfilename(defaultextension=".", filetypes=[("Text files", "*.txt"), ("All files", "*.*")])
     if file_path:
         with open(file_path, 'w') as file:
             content = text_area.get(1.0, tk.END)
             file.write(content)
-            root.title(f"Basica 2.0 - {file_path}")
+            root.title(f"Textor- {file_path}")
 
 def find_text():
-    target = simpledialog.askstring("Find", "Enter text:")
+    target = simpledialog.askstring("Search", "Enter text:")
     text_area.tag_remove('highlight', '1.0', tk.END)
     if target:
         idx = '1.0'
